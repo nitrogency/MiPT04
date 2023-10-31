@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MiPT_04</string>
+    <string name="btn_addNote">Add Note</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="edText_placeholder">Enter your note here...</string>
+    <string name="edTextTitle_placeholder">Enter title...</string>
+    <string name="toast_error">Please enter all the data.</string>
+    <string name="toast_success">Note saved!</string>
+    <string name="toast_deleted">Note deleted!</string>
+    <string name="toast_invalid">Invalid note position.</string>
+    <string name="log_mainStart">MainActivity OnCreate started</string>
+    <string name="log_mainListenerStart">onItemLongClick listener triggered</string>
+    <string name="log_mainResumed">MainActivity resumed</string>
+    <string name="log_mainReadNotesStart">readNotes started</string>
+    <string name="log_mainReadNotesEnd">All found notes read</string>
+    <string name="log_mainAddNoteStart">addNote started</string>
+    <string name="log_addStart">AddNoteActivity OnCreate started</string>
+    <string name="log_addReturnMainStart">returnMain started</string>
+    <string name="log_addSaveNoteStart">saveNote started</string>
+    <string name="log_inputError">Input error - one/both of inputs empty</string>
+    <string name="log_editStart">EditNoteActivity OnCreate started</string>
+    <string name="log_editGetNoteStart">getNote started</string>
+    <string name="log_editGetNoteTitleStart">getNoteTitle started</string>
+    <string name="log_editGetNoteContentStart">getNoteContent started</string>
+    <string name="log_editReturnMainStart">returnMain started</string>
+    <string name="log_editSaveUpdatedNoteStart">saveUpdatedNote started</string>
+    <string name="log_editSaveUpdatedNoteEnd">Note updated</string>
+    <string name="log_editDeleteNoteStart">deleteNote started</string>
+    <string name="log_editDeleteNoteEnd">Note successfully deleted</string>
+
+    <string name="PREFS_LOCATION">notes</string>
+</resources>
